@@ -1,0 +1,7 @@
+.cards__item {
+    width: 240px;
+}
+  
+  .cards__item:nth-of-type(5){
+    margin-right: 340px;
+  }
