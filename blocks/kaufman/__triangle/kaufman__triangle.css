@@ -7,6 +7,5 @@
     width: 877px;
     height: 877px;
     z-index: -1;
-    animation: rotate 2s linear infinite;
     overflow: hidden;
 }
